@@ -1,5 +1,5 @@
 ## 🚀 Sobre mi
-🔭 Desarrollador Fullstack Python de Talento Digital para Chile 2023. Técnico en Conectividad y Redes, sysadmin, aficionado a la electrónica, la impresión 3D y en mis tiempos libres me dedico a la necromancia de hardware retro...
+🔭 Técnico en Conectividad y Redes, sysadmin, aficionado a la electrónica, la impresión 3D y en mis tiempos libres me dedico a la necromancia de hardware retro...
 
 
 ## 🛠 Skills
